@@ -106,7 +106,3 @@ You can run the notebook to obtain a fine-tuned LLaMA 2 model checkpoint that pe
 
 Feel free to fork, modify, and expand upon this notebook for your own applications!
 ```
-
----
-
-Let me know if you'd like a version with badges, Docker setup, or Streamlit integration.
