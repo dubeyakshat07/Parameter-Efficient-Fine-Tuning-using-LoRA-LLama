@@ -12,6 +12,9 @@ LLaMA 2 models are powerful foundational LLMs. Fine-tuning them on domain-specif
 - Use of Hugging Face datasets for loading and formatting data.
 - Efficient fine-tuning using the LoRA technique.
 - Model saving and inference.
+- Orignal Dataset: https://huggingface.co/datasets/timdettmers/openassistant-guanaco
+- Reformat Dataset following the Llama 2 template with 1k sample: https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k
+- Complete Reformat Dataset following the Llama 2 template: https://huggingface.co/datasets/mlabonne/guanaco-llama2
 
 ## 🧠 Prompt Template (Chat-style Format)
 
